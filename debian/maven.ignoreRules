@@ -1,0 +1,13 @@
+
+javax.xml.stream stax-api * * * *
+org.apache.maven.plugins maven-assembly-plugin * * * *
+org.apache.maven.plugins maven-deploy-plugin * * * *
+org.apache.maven.plugins maven-javadoc-plugin * * * *
+org.apache.maven.plugins maven-jxr-plugin * * * *
+org.apache.maven.plugins maven-surefire-report-plugin * * * *
+org.codehaus.mojo buildnumber-maven-plugin * * * *
+org.codehaus.mojo cobertura-maven-plugin * * * *
+org.codehaus.mojo findbugs-maven-plugin * * * *
+org.glassfish.build gfnexus-maven-plugin * * * *
+org.glassfish.copyright glassfish-copyright-maven-plugin * * * *
+org.glassfish.findbugs findbugs * * * *
