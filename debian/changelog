@@ -1,5 +1,18 @@
-template-repository (1.0-1) unstable; urgency=medium
+metro-policy (2.7.2-3) unstable; urgency=medium
 
-  * Initial release
+  * Removed the dependency on libactivation-java
 
- -- Tsic404 <liuheng@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
+ -- Emmanuel Bourg <ebourg@apache.org>  Fri, 02 Nov 2018 14:58:40 +0100
+
+metro-policy (2.7.2-2) unstable; urgency=medium
+
+  * Fixed the build failure with Java 11 (Closes: #912357)
+  * Standards-Version updated to 4.2.1
+
+ -- Emmanuel Bourg <ebourg@apache.org>  Fri, 02 Nov 2018 11:21:22 +0100
+
+metro-policy (2.7.2-1) unstable; urgency=medium
+
+  * Initial release (Closes: #905278)
+
+ -- Emmanuel Bourg <ebourg@apache.org>  Thu, 02 Aug 2018 16:31:12 +0200
